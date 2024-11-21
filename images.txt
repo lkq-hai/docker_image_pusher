@@ -1,3 +1,4 @@
 nginx
 mysql
 openjdk:8
+wurstmeister/zookeeper
