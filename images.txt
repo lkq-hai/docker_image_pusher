@@ -1,1 +1,1 @@
-wurstmeister/zookeeper
+lmsysorg/sglang:latest
