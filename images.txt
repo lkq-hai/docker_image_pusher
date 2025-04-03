@@ -1,1 +1,1 @@
-likelovewant/ollama-for-amd:0.6.3
+ onerahmet/openai-whisper-asr-webservice:latest-gpu
